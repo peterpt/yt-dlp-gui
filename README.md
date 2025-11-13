@@ -26,5 +26,4 @@ python3 yt_dlp_gui.py
 
 
 # Credits
-peterpt
-Google Gemini Pro AI 
+peterpt & Google Gemini Pro AI 
