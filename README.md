@@ -20,8 +20,8 @@ python3-tk ffmpeg
 # How to install
 
 git clone https://github.com/peterpt/yt-dlp-gui.git &&
-cd yt-dlp-gui && pip3 install -r requirements.txt --break-system-packages &&
-apt install python3 python3-tk ffmpeg &&
+cd yt-dlp-gui && apt install python3 python3-pip python3-tk ffmpeg &&
+pip3 install -r requirements.txt --break-system-packages &&
 python3 yt_dlp_gui.py
 
 
