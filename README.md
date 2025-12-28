@@ -9,6 +9,10 @@ Graphic user interface for youtube downloader YT-DLP , with output format conver
 
 <img width="419" height="203" alt="image" src="https://github.com/user-attachments/assets/99eda6e8-0709-47ed-8ac2-cbfbee688dd8" />
 
+## Currently tested web platforms 
+Youtube , facebook , X , and many others that were usually available for download
+with yt_dlp
+
 ## Requirements for pip and apt
 Using pip : 
 yt-dlp
